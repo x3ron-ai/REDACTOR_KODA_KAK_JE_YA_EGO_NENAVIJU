@@ -1,0 +1,17 @@
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\bin\Debug\net6.0\converterTudaSuda.exe
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\bin\Debug\net6.0\converterTudaSuda.deps.json
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\bin\Debug\net6.0\converterTudaSuda.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\bin\Debug\net6.0\converterTudaSuda.dll
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\bin\Debug\net6.0\converterTudaSuda.pdb
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.dll
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\refint\converterTudaSuda.dll
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.pdb
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\ref\converterTudaSuda.dll
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shavuh1n\source\repos\converterTudaSuda\converterTudaSuda\obj\Debug\net6.0\converterTudaSuda.csproj.CopyComplete

@@ -1,0 +1,17 @@
+[
+  {
+    "model": "ак-47\r",
+    "caliber": "7.62\r",
+    "color": "pink\r"
+  },
+  {
+    "model": "SCAR\r",
+    "caliber": "5.56\r",
+    "color": "red\r"
+  },
+  {
+    "model": "СВД\r",
+    "caliber": "7.62\r",
+    "color": "зеленый"
+  }
+]
