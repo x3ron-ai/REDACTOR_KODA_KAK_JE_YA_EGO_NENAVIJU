@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -98,10 +98,12 @@ namespace converterTudaSuda
         }
         public static void Convert(string path)
         {
+            Console.Clear();
             string converted = Converters.ToText(path);
-            string ext = path.Split(".")[^1];
+            
             Console.WriteLine("Введите путь до файла, в который надо сохранить сериализованный текст");
             string exp = Console.ReadLine();
+            string ext = exp.Split(".")[^1];
             Console.Clear();
             if (ext == "xml")
             {
@@ -115,7 +117,7 @@ namespace converterTudaSuda
             }
             else
             {
-                File.WriteAllText(exp, ToText(converted));
+                File.WriteAllText(exp, converted);
             }
             Console.Clear();
             Console.WriteLine("Готово!");
